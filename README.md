@@ -1,5 +1,4 @@
-# Inter-Process-Communication-IPC
-## Peer to many peer file copy program using IPC
+# Peer to many peer file copy program using IPC
 You are supposed to design to use IPCs to copy a file from one peer to many
 
 using two different IPC mechanisms. The first one involves the of domain sock-
